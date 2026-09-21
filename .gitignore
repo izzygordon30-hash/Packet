@@ -1,0 +1,15 @@
+# Any files produced or left behind between runs by C++.
+cpp/**/*.o
+cpp/**/*.obj
+cpp/**/*.exe
+cpp/**/*.pdb
+cpp/**/*.ilk
+cpp/build/
+
+# Protocol(pkt) Files
+*.pkt
+
+# OS/editor cruft(garbage or old cache)
+.DS_Store
+Thumbs.db
+.idea/
